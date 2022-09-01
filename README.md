@@ -4,4 +4,4 @@ A website that displays music albums using Spotify API
 
 # Demo
 
-<a href = "https://amanuelr.github.io/SnapMusic/"> Click Here</a>
+<a target = "_blank" href = "https://amanuelr.github.io/SnapMusic/"> Click Here</a>
